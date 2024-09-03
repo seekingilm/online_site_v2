@@ -343,11 +343,11 @@ https://templatemo.com/tm-516-known
   }
 
   #home h1 {
-    color: black;
+    color: white;
   }
 
   #home h3 {
-    color: black;
+    color: white;
     font-size: 16px;
     font-weight: 300;
     margin: 0;
@@ -382,7 +382,7 @@ https://templatemo.com/tm-516-known
   .caption h3 a:hover { color: #FF3; }
 
   .home-slider .item-first {
-  background-color: #E20074;
+  background-image: url(../images/hero_back.jpg);
 	background-position: center;
   }
   
